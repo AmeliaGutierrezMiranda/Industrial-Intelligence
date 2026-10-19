@@ -122,3 +122,7 @@ Industrial recruiting should not be keyword matching.
 The better I understand the environment where someone will actually work, the better I can recognize transferable experience, explain the opportunity honestly and connect the right people to the right operation.
 
 This repository documents that learning process.
+
+## Recruiting Field Guides
+
+- [Recruiting Civil and Structural Engineers in California](field-guides/california-engineering-recruiting.md) — why these searches are tough, what keeps engineers in place, how bonuses affect timing, and practical questions to ask candidates and hiring managers.
